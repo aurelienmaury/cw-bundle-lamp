@@ -24,8 +24,8 @@
 
 <div class="container">
     <div class="padded">
-        <div class="row center">
-            <div class="bounceInUp animated">
+        <div class="row">
+            <div class="bounceInUp animated" style="text-align: center">
                 <img src="/img/lamp-logo.png" height="120" alt="">
                 <img src="/img/cloudwatt_logo.png" height="120" alt="">
             </div>
