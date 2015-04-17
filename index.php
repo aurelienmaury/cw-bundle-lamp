@@ -17,7 +17,7 @@
     <link type="text/css" rel="stylesheet" href="/css/groundwork-ie.css">
     <![endif]-->
 
-    <title>Cloudwatt LAMP-a-minute</title>
+    <title>5 Minutes Stacks by Cloudwatt - LAMP</title>
 </head>
 
 <body>
@@ -25,10 +25,13 @@
 <div class="container">
     <div class="padded">
         <div class="row">
-            <div class="bounceInUp animated" style="text-align: center">
+            <div class="bounceInDown animated" style="text-align: center">
                 <img src="/img/lamp-logo.png" height="120" alt="">
                 <img src="/img/cloudwatt_logo.png" height="120" alt="">
             </div>
+        </div>
+        <div class="row">
+            5 Minutes Stacks : LAMP
         </div>
     </div>
     <hr>
