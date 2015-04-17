@@ -24,12 +24,10 @@
 
 <div class="container">
     <div class="padded">
-        <div class="row">
-            <div class="one thirds bounceInRight animated">
-                <img src="/img/cloudwatt_logo.png" width="300" alt="">
-            </div>
-            <div class="two thirds align-right-ipad align-right-desktop flipInX animated">
-                <img src="/img/lamp-logo.png" width="200" alt="">
+        <div class="row center">
+            <div class="bounceInUp animated">
+                <img src="/img/lamp-logo.png" height="120" alt="">
+                <img src="/img/cloudwatt_logo.png" height="120" alt="">
             </div>
         </div>
     </div>
@@ -37,12 +35,10 @@
     <article class="row" style="text-align: center">
         <h3>Vous venez de démarrer une stack LAMP via le bundle proposé par Cloudwatt.</h3>
 
-        <?php
-        echo 'Version PHP courante : ' . phpversion();
-        ?>
-
+        <p>
+            Version PHP courante : <?php echo phpversion(); ?>
+        </p>
     </article>
-
 </div>
 
 <script type="text/javascript" src="/js/libs/jquery-1.10.2.min.js"></script>
